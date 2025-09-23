@@ -18,7 +18,6 @@ dato5 = input("Ingresa a la carrera elegida: ")
 ListaDatos.append(dato5)
 
 
-
 print("\n📌 Tus datos son:")
 for dato in ListaDatos:
     print(f"- {dato}")
